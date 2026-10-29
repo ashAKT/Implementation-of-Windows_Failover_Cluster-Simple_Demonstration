@@ -95,7 +95,3 @@ Use the error messages and validation report to guide troubleshooting; avoid app
 - [Microsoft Learn: Failover Clustering](https://learn.microsoft.com/en-us/windows-server/failover-clustering/failover-clustering-overview)
 - [Microsoft Learn: Hyper-V](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-technology-overview)
 - [Project video](https://www.youtube.com/watch?v=ssj_Gv378Vc)
-
-## License
-
-No license is specified in this repository. Unless a license is added, reuse and redistribution are subject to the applicable copyright rules.
